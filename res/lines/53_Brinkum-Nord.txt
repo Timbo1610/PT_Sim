@@ -1,0 +1,9 @@
+Alfred-Faust-Str;5:16
+Arsterdamm;5:11
+Huckelriede;5:09
+KattenescherWeg;5:18
+Kattenturm-Mitte;5:15
+Krimpelweg;5:12
+MorsumerStr;5:17
+Wolfskuhlenweg;5:13
+OchtumPark;5:20

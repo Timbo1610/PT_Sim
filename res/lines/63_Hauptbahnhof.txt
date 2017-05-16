@@ -1,0 +1,11 @@
+HochschuleBremen;5:41
+AmBrill;5:44
+Pappelstr;5:40
+Westerstr;5:42
+AmWall;5:45
+Reedeich-Nord;5:34
+VisbekerStraﬂe;5:35
+Ahrensstraﬂe;5:32
+GVZ-Zentralbereich;4:57
+Ludwig-Erhard-Str;5:29
+Georg-Henschel-Str;5:31

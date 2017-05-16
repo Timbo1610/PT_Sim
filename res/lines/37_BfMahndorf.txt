@@ -1,0 +1,14 @@
+Egestorff-Stiftung;4:42
+AmSiek;4:35
+SchweizerEck;4:38
+Heiligenbergstr;4:43
+KlinikumBremen-Ost;4:36
+AmHahnenkamp;4:39
+AmGroßenKuhkamp;4:45
+Lachmundsdamm;4:34
+OsterholzerHeerstr;4:33
+AnderKämenade;4:32
+Saarstr;4:30
+Sebaldsbrück;4:29
+OsterholzerFriedhof;4:31
+BeimBohnenhof;4:44

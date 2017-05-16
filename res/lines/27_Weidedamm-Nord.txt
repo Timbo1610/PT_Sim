@@ -1,0 +1,5 @@
+Hauptbahnhof-ZOB-N;5:5
+Hemmstr;5:25
+InnsbruckerStr;5:27
+Ricarda-Huch-Str;5:28
+UtbremerRing;5:26

@@ -1,0 +1,12 @@
+AmSodenmatt;4:31
+BrüsselerStr;4:26
+Carl-Hurtzig-Str;4:22
+DelfterStr;4:32
+FriedhofHuchting;4:33
+Harriersand;4:24
+HohenhorsterWeg;4:35
+Roland-Center;4:20
+ObervielanderStr;4:21
+RotterdamerStr;4:34
+Willakedamm;4:36
+ZumHuchtingerBhf;4:23

@@ -1,0 +1,15 @@
+Cornelius-Edzard-Str;5:37
+Anna-Stiegler-Str;5:31
+Arsterdamm;5:33
+Flughafen;5:39
+SolingerStr;5:44
+UnterführungB75;5:45
+NeuenlanderKämpe;5:40
+Kattenturm-Mitte;5:30
+BSAG-Zentrum;5:41
+Robert-Koch-Str;5:32
+DortmunderStraße;5:43
+Paul-Feller-Straße;5:36
+Bardenflethstr;5:46
+NorderländerStr;5:47
+ObervielanderStr;5:48

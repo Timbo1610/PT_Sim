@@ -1,0 +1,12 @@
+AumunderHeide;6:41
+BeckersBarg;5:39
+BfAumund;6:43
+BurgdammerRing;5:38
+HelsingborgerStr;5:35
+HelsingborgerPlatz;5:34
+StaderLandstr;5:40
+StockholmerStr;5:37
+Upsalastr;5:36
+BlumenhorsterStr;6:46
+FährerKämpe;6:45
+Löhstr;6:47

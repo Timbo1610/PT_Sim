@@ -1,0 +1,5 @@
+Hemmstr;5:10
+InnsbruckerStr;5:08
+Ricarda-Huch-Str;5:08
+UtbremerRing;5:09
+Weidedamm-Nord;5:07

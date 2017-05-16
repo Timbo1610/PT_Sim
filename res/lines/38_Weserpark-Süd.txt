@@ -1,0 +1,8 @@
+IndenEllern;5:31
+Oskar-Schulze-Str;5:32
+Panrepel-Nord;5:35
+Panrepel-Süd;5:36
+Ricardostr;5:33
+Theodor-Barth-Str;5:30
+Von-Thünen-Str-Nord;5:34
+Von-Thünen-Str-Süd;5:29

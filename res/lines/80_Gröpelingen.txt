@@ -1,0 +1,17 @@
+BfOslebshausen;6:6
+Dohlenstr;6:6
+Dreyer+Hillmann;5:05
+Togostraße;5:06
+StahlwerkTor3;6:6
+StahlwerkTor3;5:02
+HüttenstraßeSüd;5:01
+Riespot;6:6
+Riespot;5:01
+Wehrkamp;6:6
+Wehrkamp;5:02
+StahlwerkTor2;6:6
+Gottlieb-Daimler-Str;6:6
+Gottlieb-Daimler-Str;6:6
+Riedemannstr;6:6
+Riedemannstr;5:04
+Von-Ossietzky-Str;6:6

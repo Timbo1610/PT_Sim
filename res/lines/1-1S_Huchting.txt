@@ -1,0 +1,17 @@
+Ellenerbrokstr;4:31
+EngadinerStr;4:27
+Graub?ndenerStr;4:30
+Tenever-Zentrum;4:25
+NeuwiederStr;4:26
+SchweizerEck;4:29
+OsterholzerLandstr;4:32
+BerlinerFreiheit;4:40
+D?sseldorferStr;4:33
+D?sseldorferStr;4:33
+ErkelenzerStr;4:35
+ErkelenzerStr;4:35
+M?lheimerStr;4:34
+M?lheimerStr;4:34
+Wilh-Leuschner-Str;4:41
+Wilh-Leuschner-Str;4:41
+BfSebaldsbr?ck;4:00

@@ -1,0 +1,15 @@
+AufdemKamp;5:24
+Borgfeld;5:14
+Schoofmoor;5:23
+Horn;5:03
+Kopernikusstr;5:08
+KutscherBehrens;5:25
+Lilienthal-Mitte;5:19
+HornerMühle;5:06
+Timkenweg;5:21
+MoorhauserLandstr;5:20
+Trupe;5:16
+FeldhäuserStr;5:17
+Vorstr;5:04
+Truperdeich;5:15
+Kirchbachstr;4:58

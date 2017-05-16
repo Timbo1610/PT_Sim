@@ -1,0 +1,12 @@
+BrüsselerStr;4:4
+Carl-Hurtzig-Str;4:4
+DelfterStr;4:25
+FlämischeStr;4:4
+FriedhofHuchting;4:24
+Harriersand;4:4
+HohenhorsterWeg;4:22
+Roland-Center;4:20
+ObervielanderStr;4:4
+RotterdamerStr;4:23
+Willakedamm;4:21
+ZumHuchtingerBhf;4:4

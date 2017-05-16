@@ -1,0 +1,11 @@
+AufderSandhöhe;6:47
+Bakeweg;6:56
+KöhlerBrücke;6:48
+Luley;6:43
+NeuerSchutzdeich;6:53
+Ahrensstraße;6:52
+Roccoweg;6:57
+Stellfeldsweg;6:45
+Strom-Schule;6:46
+StromerStr;6:55
+Georg-Henschel-Str;6:51

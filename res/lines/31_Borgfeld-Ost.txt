@@ -1,0 +1,8 @@
+ImAchterkamp;5:18
+Bgm-Spitta-Allee;5:21
+Gravestr;5:16
+Hermann-Frese-Str;5:15
+Mackensenweg;5:17
+Nedderland;5:16
+Rhododendronpark;5:20
+Deliusweg;5:19

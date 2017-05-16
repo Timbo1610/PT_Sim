@@ -1,0 +1,10 @@
+Gröpelingen;6:17
+SchwarzerWeg;6:20
+WasserhorsterStraße;6:21
+Halmerweg;6:22
+BrombergerStraße;6:23
+KalischerStraße;6:25
+DirschauerStr;6:26
+IndenBarken;6:29
+Lindenhofstr;6:32
+Moorstr;6:31

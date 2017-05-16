@@ -1,0 +1,6 @@
+BeckersBarg;5:25
+BurgdammerRing;5:24
+HelsingborgerStr;5:21
+HelsingborgerPlatz;5:20
+StockholmerStr;5:23
+Upsalastr;5:22

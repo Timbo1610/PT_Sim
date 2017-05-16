@@ -1,0 +1,17 @@
+AmGlockenstein;6:31
+Bakeweg;6:20
+Hasenbüren-Hagens;6:31
+OrtsamtSeehausen;6:29
+Kriegerdenkmal;6:30
+NeuerSchutzdeich;6:21
+NeustädterHafen;6:22
+Ahrensstraße;6:22
+R;6:18
+Roccoweg;6:19
+Seehausen-Schule;6:28
+Klärwerk;6:27
+StromerStr;6:21
+Stumper;6:32
+Wessels;6:33
+Georg-Henschel-Str;6:23
+HasenbürenerDeich;6:34

@@ -1,0 +1,15 @@
+BfOslebshausen;6:19
+RitterhuderHeerstr;6:22
+AmFuchsberg;6:23
+Dohlenstr;6:17
+DIAKOBremen;6:24
+Karl-Bröger-Str;6:25
+StahlwerkTor3;6:09
+HüttenstraßeSüd;6:08
+Riespot;6:08
+MittelsbLandstr;6:13
+Wehrkamp;6:10
+StahlwerkTor1;6:12
+Riedemannstr;6:11
+AufdenDelben;6:12
+Von-Ossietzky-Str;6:15

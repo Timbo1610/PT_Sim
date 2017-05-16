@@ -1,0 +1,4 @@
+EppenhainerStr;4:31
+NauheimerStr;4:33
+RuppertshainerStr;4:32
+Sollingstr;4:34

@@ -1,0 +1,10 @@
+Holzweide;5:20
+Holzweide;5:20
+BfMahndorf;5:16
+BfMahndorf;5:16
+BollenerLandstr;5:18
+BollenerLandstr;5:18
+Hexenstieg;5:17
+Hexenstieg;5:17
+Malthusstr;5:19
+Malthusstr;5:19

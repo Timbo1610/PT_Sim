@@ -1,0 +1,7 @@
+BfBurg;5:36
+BeckersBarg;5:38
+BurgdammerRing;5:39
+HelsingborgerStr;5:42
+StaderLandstr;5:37
+StockholmerStr;5:40
+Upsalastr;5:41

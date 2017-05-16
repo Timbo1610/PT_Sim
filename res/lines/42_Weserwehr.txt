@@ -1,0 +1,13 @@
+BfSebaldsbrück;6:16
+Europaallee-Autohof;6:00
+Föhrenstr;6:18
+ArbergerHafendamm;6:05
+Ludwig-von-Kapff-Str;6:02
+Walther-Jacobs-Str;6:03
+La-Rochelle-Str;5:59
+KleineMarschstr;6:04
+Osterhop;6:10
+Schlengstr;6:08
+Belmerstr;6:09
+Werrahafen;6:06
+Christernstr;6:12

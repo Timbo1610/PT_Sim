@@ -1,0 +1,7 @@
+Gastfeldstr;3:54
+TheateramLeibnizplatz;3:52
+Schleiermacherstr;3:55
+Wilh-Kaisen-Brücke;3:50
+Domsheide;3:49
+Schüsselkorb;3:47
+Herdentor;3:45

@@ -1,0 +1,8 @@
+DithmarscherFreiheit;5:19
+FürtherStr;5:17
+Hemmstr;5:15
+HolsteinerStr;5:20
+LangeReihe;5:23
+BfWalle;5:21
+WaldauTheater;5:22
+WallerRing;5:24

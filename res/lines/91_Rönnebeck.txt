@@ -1,0 +1,13 @@
+HinnebeckerStr;6:6
+LesumPark;5:45
+Lesum-Kirche;5:43
+Stehnckenshoff;5:42
+AmFillerkamp;6:44
+CranzerStr;6:45
+KöhlhorsterStr;6:42
+RönnebeckerStraße;6:38
+AnderLehmkuhle;6:40
+NeuenkirchenerWeg;6:43
+BfKreinsloger;6:6
+BfTurnerstraße;6:6
+VorbergerStr;6:41

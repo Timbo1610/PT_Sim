@@ -1,0 +1,7 @@
+BfVegesack;9:00
+Bruno-Bürgel-Straße;9:04
+AufdemStahlhorn;9:07
+BfSchönebeck;9:06
+SchönebeckerStr;9:02
+Seefahrtstr;9:03
+Grohn-Markt;9:01

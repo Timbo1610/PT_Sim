@@ -1,0 +1,6 @@
+AnderAmtsweide;6:10
+Betonstr;6:13
+Wasserweg;6:11
+Buschdeel;6:09
+FähreFarge;6:12
+Hanfstr;6:09

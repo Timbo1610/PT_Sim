@@ -1,0 +1,15 @@
+AltenescherStr;23:38
+WaldauTheater;23:42
+Daniel-v-Büren-Str;23:49
+Doventorsteinweg;23:48
+Falkenstr;23:50
+Gröpelingen;23:34
+Gustavstr;23:43
+Haferkamp;23:47
+Hansestr;23:46
+Lindenhofstr;23:36
+Moorstr;23:37
+WallerFriedhof;23:39
+WallerStr;23:40
+Wartburgstr;23:45
+UtbremerStr;23:44

@@ -1,0 +1,14 @@
+Brünsweg;5:06
+EppenhainerStr;5:12
+KluvenhagenerStr;5:15
+Marschstr;5:05
+NauheimerStr;5:10
+Osterhop;5:02
+RuppertshainerStr;5:11
+Schlengstr;5:04
+Belmerstr;5:03
+Sollingstr;5:09
+Stackkamp;5:07
+Christernstr;5:02
+Süntelstr;5:08
+Sebaldsbrück;5:00

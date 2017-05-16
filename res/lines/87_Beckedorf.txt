@@ -1,0 +1,15 @@
+AumunderHeide;9:11
+BfAumund;9:11
+BfVegesack;8:33
+Blumenkamp;9:21
+Gerhard-Rohlfs-Str;9:11
+Richthofenstr;9:22
+SchönebeckerStr;9:26
+Seefahrtstr;9:25
+Taunusstr;9:24
+Grohn-Markt;9:27
+Finkenschlag;9:23
+AumunderWeidestr;8:42
+Milchstr;8:41
+Lerchenstraße;8:40
+Wilhelm-Zöllig-Str;8:40

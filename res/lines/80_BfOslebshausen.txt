@@ -1,0 +1,10 @@
+Dohlenstr;5:44
+StahlwerkTor3;5:38
+HüttenstraßeSüd;5:37
+Riespot;5:37
+Wehrkamp;5:38
+StahlwerkTor2;6:6
+Gottlieb-Daimler-Str;6:6
+Gottlieb-Daimler-Str;6:6
+Riedemannstr;5:40
+Von-Ossietzky-Str;5:43

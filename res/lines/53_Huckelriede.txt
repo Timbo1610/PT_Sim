@@ -1,0 +1,9 @@
+Alfred-Faust-Str;4:37
+Arsterdamm;4:44
+KattenescherWeg;4:35
+Kattenturm-Mitte;4:39
+Krimpelweg;4:43
+MorsumerStr;4:36
+Wolfskuhlenweg;4:42
+IKEA-Marktkauf;5:32
+OchtumPark;4:34

@@ -1,0 +1,14 @@
+BfMahndorf;5:29
+Brünsweg;5:38
+EppenhainerStr;5:32
+KluvenhagenerStr;5:30
+Marschstr;5:39
+NauheimerStr;5:34
+Osterhop;5:42
+RuppertshainerStr;5:33
+Schlengstr;5:40
+Belmerstr;5:41
+Sollingstr;5:35
+Stackkamp;5:36
+Christernstr;5:43
+Süntelstr;5:36

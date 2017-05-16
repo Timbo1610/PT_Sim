@@ -1,0 +1,8 @@
+BfLesum;6:6
+AmHeidbergstift;6:6
+BurgdammerPostweg;6:6
+Goldbergplatz;6:6
+Rotdornallee;6:6
+ZumKränholm;6:6
+DillenerPark;6:6
+RönnebeckerStraße;6:25

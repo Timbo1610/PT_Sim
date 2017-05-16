@@ -1,0 +1,9 @@
+IndenEllern;5:22
+Malthusstr;5:25
+Oskar-Schulze-Str;5:21
+Panrepel-Nord;5:19
+Panrepel-Süd;5:18
+Ricardostr;5:20
+Theodor-Barth-Str;5:23
+Von-Thünen-Str-Nord;5:20
+Von-Thünen-Str-Süd;5:24

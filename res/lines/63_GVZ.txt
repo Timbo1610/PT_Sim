@@ -1,0 +1,11 @@
+HochschuleBremen;4:36
+AmBrill;4:34
+Pappelstr;4:37
+Westerstr;4:35
+Hauptbahnhof-ZOB-N;4:30
+AmWall;4:32
+Reedeich-Nord;4:43
+VisbekerStraﬂe;4:41
+Neust‰dterHafen;4:45
+Ahrensstraﬂe;4:45
+Georg-Henschel-Str;4:46

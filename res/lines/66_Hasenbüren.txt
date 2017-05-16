@@ -1,0 +1,5 @@
+StedingerBrücke;6:32
+Schöpfwerk;6:33
+Stumper;6:37
+Wessels;6:38
+HasenbürenerDeich;6:39
